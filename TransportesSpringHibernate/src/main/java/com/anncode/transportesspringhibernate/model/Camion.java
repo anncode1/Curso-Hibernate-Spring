@@ -1,4 +1,4 @@
-package com.anncode.transportesspringhibernate.model;
+package main.java.com.anncode.transportesspringhibernate.model;
 
 import java.io.Serializable;
 import java.util.ArrayList;
