@@ -19,5 +19,6 @@
   	<servlet-name>transportes</servlet-name>
   	<url-pattern>/bienvenida.jsp</url-pattern>
   	<url-pattern>/bienvenida.html</url-pattern>
+  	
   </servlet-mapping>
 </web-app>
